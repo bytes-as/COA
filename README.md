@@ -1,2 +1,1 @@
-# COA
-Computer Organisation &amp; Architecture Assignments
+# computer-organisation-and-architecture

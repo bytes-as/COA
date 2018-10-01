@@ -1,0 +1,39 @@
+net "mc[0]" loc="p5";
+net "mc[1]" loc="p7";
+net "mc[2]" loc="p3";
+net "mc[3]" loc="p4";
+net "mc[4]" loc="p205";
+net "mc[5]" loc="p2";
+net "mc[6]" loc="p203";
+net "mc[7]" loc="p204";
+
+
+net "mp[0]" loc="p191";
+net "mp[1]" loc="p190";
+net "mp[2]" loc="p196";
+net "mp[3]" loc="p194";
+net "mp[4]" loc="p198";
+net "mp[5]" loc="p197";
+net "mp[6]" loc="p200";
+net "mp[7]" loc="p199";
+
+net "out[0]" loc = "p139";
+net "out[1]" loc = "p140";
+net "out[2]" loc = "p137";
+net "out[3]" loc = "p138";
+net "out[4]" loc = "p133";
+net "out[5]" loc = "p135";
+net "out[6]" loc = "p131";
+net "out[7]" loc = "p132";
+net "out[8]" loc = "p149";
+net "out[9]" loc = "p150";
+net "out[10]" loc = "p147";
+net "out[11]" loc = "p148";
+net "out[12]" loc = "p144";
+net "out[13]" loc = "p146";
+net "out[14]" loc = "p141";
+net "out[15]" loc = "p143";
+
+net "clk" loc = "p10";
+net "start" loc = "p9";
+
