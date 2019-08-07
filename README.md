@@ -1,1 +1,3 @@
-# computer-organisation-and-architecture
+# Computer Organization & Architecture
+
+Implementation of algorithms on FPGA

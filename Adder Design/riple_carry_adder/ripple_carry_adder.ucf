@@ -1,0 +1,31 @@
+net "a[0]"	loc = "p191" ;
+net "a[1]"	loc = "p190" ;
+net "a[2]"	loc = "p196" ;
+net "a[3]"	loc = "p194" ;
+net "a[4]"	loc = "p198" ;
+net "a[5]"	loc = "p197" ;
+net "a[6]"	loc = "p200" ;
+net "a[7]"	loc = "p199" ;
+
+net "b[0]"	loc = "p5" ;
+net "b[1]"	loc = "p7" ;
+net "b[2]"	loc = "p3" ;
+net "b[3]"	loc = "p4" ;
+net "b[4]"	loc = "p205" ;
+net "b[5]"	loc = "p2" ;
+net "b[6]"	loc = "p203" ;
+net "b[7]"	loc = "p204" ;
+
+
+net "cy_in" loc = "p27" ;
+
+net "sum[0]"	loc = "p165" ;
+net "sum[1]"	loc = "p166" ;
+net "sum[2]"	loc = "p161" ;
+net "sum[3]"	loc = "p162" ;
+net "sum[4]"	loc = "p155" ;
+net "sum[5]"	loc = "p156" ;
+net "sum[6]"	loc = "p152" ;
+net "sum[7]"	loc = "p154" ;
+
+net "cy_out"	loc = "p181" ;
